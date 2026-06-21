@@ -5,3 +5,6 @@ plotly
 scikit-learn
 requests
 xgboost
+groq
+sentence-transformers
+faiss-cpu
