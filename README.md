@@ -4,6 +4,8 @@ A Netflix-style content intelligence platform combining analytics, a content-bas
 
 Built during an internship project, then extended with retrieval-augmented generation, agentic tool-calling, and a full model-evaluation suite.
 
+### Here you can checkout the live demo : https://streamscope-tejesh-417.streamlit.app/
+
 ## Features
 
 - **Dashboard** — catalog KPIs, content distribution, top countries
